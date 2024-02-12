@@ -1,1 +1,2 @@
 I've developed a powerful encryption tool in Python called ENCRY. With ENCRY, you can transform plain text into highly secure encrypted data. It also includes a robust decryption feature to restore encrypted data back to its original form. ENCRY ensures top-notch security for your sensitive information, offering peace of mind in an increasingly digital world.
+<img src="https://github.com/Aakidul/EN-CRY/raw/main/encry.jpg" alt="ENCRY Image">
